@@ -1,12 +1,8 @@
-# MITxPRO-DockerMERN
-A Full-Stack MERN (Mongo-Express-React-Node) Application Template in Docker Containers.
+# Scrutiny.NET
+A Full-Stack MERN (Mongo-Express-React-Node) Application in Docker Containers for error proofing product assembly.
 
-* Clone this repo and rename to your target App Name.
-* In the .env, .env.development, .env.production and the (3) 'Dockerfile' (Frontend, Backend, and Database)
-  configure all the env vars to your project's values, this is used through to generate image and container names as
-  well as log event identification.
-* It is also used to control the docker-compose activity using teh env var APP_NAME...
-
+* coming soon...
+  
 ```
 COMPOSE_PROJECT_NAME=${APP_NAME}
 ```
